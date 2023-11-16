@@ -33,6 +33,6 @@ template_engine: liquid
 # pagination:
 #   enabled: true
 
-available_locales: [en-US, en-GB]
+available_locales: [en-US, uk]
 default_locale: en-US
 prefix_default_locale: false
