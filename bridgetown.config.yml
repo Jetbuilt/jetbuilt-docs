@@ -42,3 +42,7 @@ defaults:
       layout: page
       description: ''
       category: ''
+
+collections:
+  errors:
+    output: true
