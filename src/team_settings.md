@@ -6,7 +6,7 @@ description: ''
 category: ''
 ---
 
-## Here\'s a little bit about company settings
+## Here\'s a little bit about team settings
 
 ## H2
 
