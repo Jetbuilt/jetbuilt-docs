@@ -36,3 +36,9 @@ template_engine: liquid
 available_locales: [en-US, uk]
 default_locale: en-US
 prefix_default_locale: false
+
+defaults:
+  - values:
+      layout: page
+      description: ''
+      category: ''
