@@ -1,0 +1,19 @@
+---
+layout: 
+title: Team Settings
+date: 2023-11-17T15:20
+description: 
+category: 
+---
+
+## Here\'s a little bit about company settings
+
+## H2
+
+### H3
+
+#### H4
+
+#### I don’t see a difference between H3 and H4. Also, anytime I press enter, it makes large gaps between paragraphs.
+
+#### This CMS Rich-text editor is not so great...
