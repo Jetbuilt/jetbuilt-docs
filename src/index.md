@@ -2,8 +2,6 @@
 title:  "Home"
 ---
 
----
-title:  "weird"
----
+# Here is something else
 
 Welcome to Jetbuilt Academy, where you can learn all about Jetbuilt!
