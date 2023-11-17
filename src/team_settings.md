@@ -30,10 +30,8 @@ category: ''
 
 * working?
 
-#### I don’t see a difference between H3 and H4. 
-
-I can\'t get rid of this H4...Got it!Now, I\'m not sure how to add images... Maybe we have to set up where the images will be stored in GitHub
+I don’t see a difference between H3 and H4. Now, I\'m not sure how to add images... Maybe we have to set up where the images will be stored in GitHub
 
 I edited to toolbar in Spinal\'s settings to include image, but I don\'t see it in the toolbar.
 
-#### This CMS Rich-text editor is a little difficult to work with. It\'s a tad finicky.
+#### This CMS Rich-text editor is a little difficult to work with. It\'s a tad finicky when it comes to spacing. Sometimes it will give me 5 lines between the next paragraph, even though I saved it with one space between lines.
