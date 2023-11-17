@@ -2,6 +2,7 @@
 title:  "Home"
 ---
 
-# Here is something elsefxbxfbfxbzfbz
-
+<h1>  
+Here is something new
+</h1>
 Welcome to Jetbuilt Academy, where you can learn all about Jetbuilt!
