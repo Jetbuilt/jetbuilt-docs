@@ -30,7 +30,7 @@ category: ''
 
 * working?
 
-I don’t see a difference between H3 and H4. Now, I\'m not sure how to add images... Maybe we have to set up where the images will be stored in GitHub
+I don’t see a difference between H3 and H4. Ah, I see it now after it\'s published. It\'s slight.Now, I\'m not sure how to add images... Maybe we have to set up where the images will be stored in GitHub
 
 I edited to toolbar in Spinal\'s settings to include image, but I don\'t see it in the toolbar.
 
