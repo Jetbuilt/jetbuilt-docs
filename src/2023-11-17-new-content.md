@@ -14,6 +14,6 @@ category:
 
 #### H4
 
-#### I don’t see a difference between H3 and H4. Also, anytime I press enter, it makes large gaps between paragraphs.
+#### I don’t see a difference between H3 and H4. Also, anytime I press enter, it makes large gaps between paragraphs.I can\'t get rid of this H4...
 
-#### This CMS Rich-text editor is not so great...
+#### This CMS Rich-text editor is not so great.
