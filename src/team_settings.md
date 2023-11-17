@@ -14,16 +14,26 @@ category: ''
 
 #### H4
 
+1.  numbered list 1
+
+2.  two
+
+3.  three
+
+4.  working at all?
+
+* Unordered list
+
+* another
+
+* and another
+
+* working?
+
 #### I don’t see a difference between H3 and H4. 
 
-#### Also, anytime I press enter, it makes large gaps between paragraphs.
+I can\'t get rid of this H4...Got it!Now, I\'m not sure how to add images... Maybe we have to set up where the images will be stored in GitHub
 
-#### I can\'t get rid of this H4...
+I edited to toolbar in Spinal\'s settings to include image, but I don\'t see it in the toolbar.
 
-
-
-## I can\'t get rid of any headers that I click on now.
-
-## 
-
-#### This CMS Rich-text editor is a little difficult to work with. It\'s finicky.
+#### This CMS Rich-text editor is a little difficult to work with. It\'s a tad finicky.
