@@ -2,6 +2,7 @@
 layout: bridgetown_docs_template/layout
 title: Team Settings
 date: 2023-11-17T15:20
+category: Team Settings
 ---
 
 ## Here\'s a little bit about team settings
