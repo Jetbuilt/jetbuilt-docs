@@ -1,9 +1,6 @@
 ---
-layout: ''
 title: Another Spinal Doc
 date: 2023-11-17T16:47
-description: ''
-category: ''
 ---
 
 doesn\'t use \"bridgetown\" template layout so the formatting works.
@@ -13,6 +10,8 @@ doesn\'t use \"bridgetown\" template layout so the formatting works.
 * lists
 
 * listed
+
+![SuperOkayLogo-1f60b6.png](images/documentation/SuperOkayLogo-1f60b6.png)
 
 1.  number
 
