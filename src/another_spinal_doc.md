@@ -11,11 +11,9 @@ doesn\'t use \"bridgetown\" template layout so the formatting works.
 
 * liste
 
-#  ![0](images/documentation/SuperOkayLogo-1f60b6.png)![](images/documentation/HETMA.png)![Buy Project.png](images/documentation/Buy%20Project.png) 
+#  ![0](images/documentation/SuperOkayLogo-1f60b6.png)![](images/documentation/HETMA.png)![](images/documentation/Buy%20Project.png) 
 
-number
-
-1.  numbers
+ number 1.  numbers
 
 2.  numbered
 
