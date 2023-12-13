@@ -1,9 +1,9 @@
 ---
-layout: bridgetown_docs_template/layout
+layout: ''
 title: Default Settings
 date: 2023-12-13T18:23
 description: ''
-category: Company Settings
+category: ''
 ---
 
 ## Here you will learn about your Default Settings in Company Settings.
