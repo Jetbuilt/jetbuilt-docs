@@ -9,14 +9,14 @@ doesn\'t use \"bridgetown\" template layout so the formatting works.
 
 * lists
 
-* listed
+* liste
 
-![SuperOkayLogo-1f60b6.png](images/documentation/SuperOkayLogo-1f60b6.png)
+#  ![0](images/documentation/SuperOkayLogo-1f60b6.png)![](images/documentation/HETMA.png)![Buy Project.png](images/documentation/Buy%20Project.png) 
 
-1.  number
+number
 
-2.  numbers
+1.  numbers
 
-3.  numbered
+2.  numbered
 
 ## header 2
