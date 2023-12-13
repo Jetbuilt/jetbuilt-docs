@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: bridgetown_docs_template/layout
 title: Default Settings
 date: 2023-12-13T18:23
 description: ''
