@@ -33,3 +33,5 @@ This is a sentaence that will thave errors and misspellings and all that stuff b
 ![seattle nature.jpg](/images/seattle%20nature.jpg)
 
 ![SuperOkayLogo-256478.png](/images/SuperOkayLogo-256478.png)
+
+![yoda.gif](/images/yoda.gif)
