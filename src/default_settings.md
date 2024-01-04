@@ -34,4 +34,4 @@ This is a sentaence that will thave errors and misspellings and all that stuff b
 
 ![SuperOkayLogo-256478.png](/images/SuperOkayLogo-256478.png)
 
-![yoda.gif](/images/yoda.gif)
+![yoda.gif](/images/yoda.gif)![Buy Project bigger box.png](/images/Buy%20Project%20bigger%20box.png)
