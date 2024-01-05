@@ -1,5 +1,4 @@
 ---
-layout: bridgetown_docs_template/layout
 title: Home
 date: '2023-11-09T11:22:04'
 categories:

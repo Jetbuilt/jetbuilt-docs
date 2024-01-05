@@ -1,9 +1,6 @@
 ---
-layout: bridgetown_docs_template/layout
 title: Team Settings created in Spinal
 date: 2023-11-17T15:20
-description: ''
-category: ''
 ---
 
 ## Here\'s a little bit about company settings
@@ -17,11 +14,11 @@ category: ''
 1.  numbered list 1
 
 2.  two
-    
+
     1.  indented in list?
-        
+
         1.  Another indent?
-        
+
         ^
 
 3.  three
@@ -29,9 +26,9 @@ category: ''
 4.  working at all?
 
 * Unordered list
-  
+
   * indent in unordered list?
-  
+
   ^
 
 * another

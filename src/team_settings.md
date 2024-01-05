@@ -1,5 +1,4 @@
 ---
-layout: bridgetown_docs_template/layout
 title: Team Settings
 date: 2023-11-17T15:20
 category: yo

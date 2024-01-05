@@ -1,8 +1,6 @@
 ---
-layout: bridgetown_docs_template/layout
 title: Posts
 description: yo
-category: ''
 ---
 
 * [\{\{ post.data.title }}]({{ post.relative_url }})
