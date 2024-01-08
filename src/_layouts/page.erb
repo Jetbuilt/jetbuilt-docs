@@ -20,10 +20,6 @@ layout: default
         <%= page.data.description %>
       </p>
 
-      <%= render BridgetownDocsTemplate::VideoTourComponent.new if page.data.show_videotour %>
-
-      <%= render BridgetownDocsTemplate::QuickLinksComponent.new if page.data.show_quicklinks %>
-
       <div class="mt-8 prose prose-slate max-w-none prose-headings:font-semibold prose-headings:tracking-tight prose-lead:text-slate-500 prose-a:font-semibold prose-a:underline prose-pre:bg-slate-900">
         <%= content %>
       </div>
@@ -31,6 +27,6 @@ layout: default
       <%= liquid_render "content_footer" %>
     </article>
 
-    <%= render BridgetownDocsTemplate::ContentNavigationComponent.new(page) %>
+    <%= liquid_render "content_navigation", page: page %>
   </div>
 </main>
