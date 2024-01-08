@@ -28,7 +28,7 @@ layout: default
         <%= content %>
       </div>
 
-      <%= render BridgetownDocsTemplate::ContentFooterComponent.new(site) %>
+      <%= liquid_render "content_footer" %>
     </article>
 
     <%= render BridgetownDocsTemplate::ContentNavigationComponent.new(page) %>
